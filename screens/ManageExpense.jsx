@@ -1,9 +1,9 @@
 import { View, Text, StyleSheet } from "react-native";
 
-const ManageExpenses = () => {
+const ManageExpense = () => {
   return <Text>Manage expense screen</Text>;
 };
 
 const styles = StyleSheet.create({});
 
-export default ManageExpenses;
+export default ManageExpense;
